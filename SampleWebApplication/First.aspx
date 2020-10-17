@@ -15,6 +15,7 @@
             <asp:Label ID="Label1" runat="server" Text="Enter your Name"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         </div>
+        <h1> This is a sample header </h1>
         <div>
             <asp:Label ID="Label2" runat="server" Text="Enter your Age"></asp:Label>
             <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
