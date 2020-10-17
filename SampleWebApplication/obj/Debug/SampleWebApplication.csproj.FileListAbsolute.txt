@@ -57,6 +57,8 @@ H:\L&T\GET698\SampleWebApplication\SampleWebApplication\bin\Microsoft.AI.Depende
 H:\L&T\GET698\SampleWebApplication\SampleWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
 H:\L&T\GET698\SampleWebApplication\SampleWebApplication\bin\Microsoft.AI.WindowsServer.xml
 H:\L&T\GET698\SampleWebApplication\SampleWebApplication\bin\Microsoft.AI.Web.xml
-H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csprojResolveAssemblyReference.cache
 H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.dll
 H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.pdb
+H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csprojAssemblyReference.cache
+H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csproj.CoreCompileInputs.cache
+H:\L&T\GET698\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csproj.CopyComplete
